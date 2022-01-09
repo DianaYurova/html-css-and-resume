@@ -1,0 +1,130 @@
+.content {
+    max-width: 1000px;
+	height: 1200px;
+    margin: auto;
+	border: 2px solid #13b1cc;
+	border-radius: 20px;
+}
+
+.fullpage {
+	width: 1000px;
+}
+
+.headers1 {
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	text-decoration: underline;
+	color: #17789c;
+	margin-left: 55px;
+}
+
+.headers2 {
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	text-decoration: underline;
+	color: #17789c;
+}
+
+.text1 {
+	font-family: Arial, sans-serif;
+	font-size: 17px;
+	margin-left: 55px;
+	margin-right: 35px;
+	margin-bottom: 15px;
+	word-wrap: break-word;
+	height: 10px;
+}
+
+.text2 {
+	font-family: Arial, sans-serif;
+	font-size: 17px;
+	margin-bottom: 15px;
+	word-wrap: break-word;
+	height: 10px;
+}
+
+.divtextblocks {
+	padding-bottom: 2px;
+}
+
+.tdleft {
+	width: 335px;
+	padding-right: 0px;
+}
+
+.tdright {
+	vertical-align: top;
+	float: left;
+	margin-right: 30px;
+	margin-left: 15px;
+}
+
+th {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	text-align: left;
+}
+
+tr {
+	vertical-align: top;
+}
+
+.experiencetable {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+a:link, a:visited {
+	font-family: Georgia, serif;
+	font-size: 17px;
+	color: grey;
+	margin-left: 3px;
+}
+
+a:hover, a:visited:hover{
+	color:green;
+}
+
+.contact-icons {
+	 width: 20px;
+	 margin-left: 70px;
+	 vertical-align: bottom;
+}
+
+.headfont1 {
+	margin-top: 70px;
+	margin-bottom: 0em;
+	font-size: 45px;
+	font-weight: bold;
+	margin-left:130px;
+}
+
+.headfont2 {
+	margin-top: 0px;
+	margin-bottom: 0em;
+	font-size: 35px;
+	font-weight: bold;
+	margin-left: 180px;
+	color: #17789c;
+}
+
+.pcontact {
+	height: 20px;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.myphoto {
+	margin-top: 5%;
+	border-radius: 100px;
+}
+.fullline IMG {	position: relative; }
+.line {	top: 27px; right: -4px;}
+.dots IMG { position: absolute; }
+.dotexperience { top: 270px;}
+.doteducation { top: 380px;}
+.dotlanguages { top: 575px;}
+.dotcourses { top: 720px;}
+.dotaboutme { top: 955px;}
+.dottools { top: 995px;}
+.dotend { top: 1165px;}
